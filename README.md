@@ -1,7 +1,7 @@
 # JelloMod
 This is my first proper minecraft mod. it was more for a learning experience that I created this mod as i wanted to get a better understanding of modding. anyway it has acouple of cool things.
 
-#So far it has:
+# So far it has:
 
 Jello block (red). this is just a normal jello block and what all the others are based on. Jello blocks are objects in which items and entities can get stuck in but players and mobs (mobs cureently get stuck) can movethrough but a slower speed. 
 It is also climable like a ladder allowing you to "swim" in it but be careful as you will suffacate after some time. jello blocks are also edible like cake.
@@ -14,7 +14,7 @@ the other colors are basically like the red jello block but different colors for
 
 there is also a basic biome I added as an experiement in making biomes. might be expanded on in the future.
 
-#future plans:
+# future plans:
 
 I plan on addingg more unique jello blocks and will fix certain issues with how mobs are handled whe in the blocks.
 
