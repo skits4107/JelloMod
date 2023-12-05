@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "whathaveidone:jello_green"
+    }
+  },
+  "result": {
+    "item": "whathaveidone:jello_block_green",
+    "count": 1
+  }
+}

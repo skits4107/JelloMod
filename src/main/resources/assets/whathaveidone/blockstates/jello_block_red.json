@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "eaten=0": {"model":"whathaveidone:block/jello_block_red_full"},
+    "eaten=1": {"model":"whathaveidone:block/jello_block_red_three"},
+    "eaten=2": {"model":"whathaveidone:block/jello_block_red_two"},
+    "eaten=3": {"model":"whathaveidone:block/jello_block_red_one"}
+
+  }
+
+}

@@ -1,0 +1,11 @@
+{
+  "item.whathaveidone.jello_red" : "Red Jello",
+  "item.whathaveidone.jello_blue" : "Blue Jello",
+  "item.whathaveidone.jello_green" : "Green Jello",
+  "item.whathaveidone.jello_orange" : "Orange Jello",
+  "creativetab.whathaveidone_tab": "What Have I Done",
+  "block.whathaveidone.jello_block_red": "Red Jello Block",
+  "block.whathaveidone.jello_block_blue": "Blue Jello Block",
+  "block.whathaveidone.jello_block_green": "Green Jello Block",
+  "block.whathaveidone.jello_block_orange": "Orange Jello Block"
+}
